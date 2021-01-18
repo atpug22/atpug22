@@ -30,7 +30,9 @@
 <img src="https://icongr.am/devicon/django-original.svg?size=92&color=currentColor" alt="django" width="55" height="55"/> 
 <img src="https://icongr.am/devicon/react-original.svg?size=92&color=currentColor" alt="React" width="55" height="55"/> 
 <img src="https://icongr.am/devicon/vuejs-original.svg?size=92&color=currentColor" alt="Vue" width="55" height="55"/> 
-<img src="https://icongr.am/devicon/git-original.svg?size=92&color=currentColor" alt="Git" width="55" height="55"/> 
+<img src="https://icongr.am/devicon/git-original.svg?size=92&color=currentColor" alt="Git" width="55" height="55"/>
+<img src="https://icongr.am/devicon/angularjs-original.svg?size=92&color=currentColor" alt="Angular" width="55" height="55"/> 
+
 </p>
 <br>
 <br>
