@@ -11,7 +11,7 @@
 <a href="mailto:aryaman.gupta.met19@iitbhu.ac.in" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Aryaman" height="20" width="20" /></a>&nbsp;
 <a href="https://linkedin.com/in/ryaman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ryaman" height="20" width="20" /></a>&nbsp;
 <a href="https://twitter.com/_ryaman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_ryaman" height="20" width="20" /></a>&nbsp;
-<a href="https://instagram.com/in/_ryaman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ryaman" height="20" width="20" /></a>&nbsp;
+<a href="https://instagram.com/_ryaman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ryaman" height="20" width="20" /></a>&nbsp;
 </div>
 </p>
 
